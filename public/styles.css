@@ -1,0 +1,44 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(zen.jpeg);
+  background-repeat: no-repeat;
+  text-align: center;
+  background-size: 100%;
+  font-family: 'Roboto Mono', monospace;
+}
+.container{
+  background: rgb(240,226,13);
+  background: linear-gradient(0deg, rgba(240,226,13,1) 25%, rgba(200,226,119,0.9429194819819819) 75%);
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  height: 440px;
+  border-radius: 10%;
+}
+.title{
+  padding-top: 39px;
+    color: brown;
+    font-weight: 700;
+}
+h2{
+  font-size: 15px;
+    font-style: italic;
+    color: brown;
+}
+h3{
+  color: brown;
+    font-size: 25;
+    padding-top: 10px;
+    font-weight: 700;
+}
+li{
+  list-style-type: none;
+  color: black;
+}
+button{
+  background-color: brown;
+  color: whitesmoke;
+  border: 3px solid black;
+}
