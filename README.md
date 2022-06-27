@@ -1,7 +1,7 @@
 # Affirmations
 Daily affirmations help you set the mood for a positive day. Enter this community to read affirmations and share some .
 
-**Link toProject:** 
+**Link toProject:** https://affram.herokuapp.com/
 
 
 <img src= "candle.jpg" width =90%>
